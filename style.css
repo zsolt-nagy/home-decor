@@ -2,6 +2,27 @@ body {
     margin: 0;
 }
 
+@media only screen and (max-width: 500px) {
+    /* shows elements in a column*/
+    ul {
+        flex-direction: column;
+        align-items: center;
+        
+    }
+
+    /*deletes margin on top or bottom of the a tag*/
+    li {
+        margin: 0;
+    }
+
+    /* makes sure that the a tag will take the entire screen*/
+    a {
+        display: block;
+        
+    }
+
+}
+
 nav {
     background-color: aqua;
     width: 100vw;
