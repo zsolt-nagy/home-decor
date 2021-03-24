@@ -9,7 +9,9 @@ nav {
 
 .navlinks {
     list-style-type: none;
-    text-decoration: none;
+    margin: 0 2vw;
+    font-size: 3vh;
+    
 }
 
 li a {
@@ -19,4 +21,6 @@ li a {
 ul {
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
 }
