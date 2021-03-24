@@ -2,6 +2,10 @@ body {
     margin: 0;
 }
 
+button {
+    display: none;
+
+}
 @media only screen and (max-width: 500px) {
     /* shows elements in a column*/
     ul {
@@ -19,9 +23,21 @@ body {
     a {
         display: block;
         
-    }
+    } 
 
+    button {
+        display: block;
+        padding: 2vw;
+        font-size: 3vh;
+        background-color: #AFE0FF;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        align-self: flex-end;
+       
+    }
 }
+
 
 nav {
     background-color: aqua;
@@ -45,3 +61,4 @@ ul {
     display: flex;
     justify-content: center;
 }
+
