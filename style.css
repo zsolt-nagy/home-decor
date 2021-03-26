@@ -6,6 +6,13 @@ body {
    width: 100vw;
 }
 
-/*.section-wrap {
+.main-section-wrap {
+   display: flex;
+   flex-direction: row;
+}
+
+.section-wrap {
     height: 30vh;
-}*/
+    display: flex;
+    display: inline-block;
+}
