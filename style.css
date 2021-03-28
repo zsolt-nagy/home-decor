@@ -9,17 +9,14 @@ body {
 .main-section-wrap {
    display: flex;
    justify-content: center;
-   
-}
-
-.image-container {
   
 }
 
-.section-wrap {
-    height: 30vh;
-    
 
+
+.section-wrap {
+    height: 70vh;
+    padding: 1em;
    
 }
 
