@@ -8,14 +8,17 @@ body {
 
 .main-section-wrap {
    display: flex;
-   flex-direction: row;
-   margin: auto;
+   justify-content: center;
+   
+}
+
+.image-container {
+  
 }
 
 .section-wrap {
     height: 30vh;
-    display: flex;
-    display: inline-block;
+    
 
    
 }
