@@ -9,6 +9,8 @@ body {
 .main-section-wrap {
    display: flex;
    justify-content: center;
+   background-color: #bee3db;
+   
   
 }
 
@@ -28,3 +30,8 @@ body {
     padding: 1em 6em;
 }
 
+
+.outer-main-section-wrap {
+    background-color: #89b0ae;
+    
+}
