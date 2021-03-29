@@ -16,10 +16,8 @@ h1 {
    display: flex;
    justify-content: center;
    background-color: #bee3db;
-
-  
+ 
 }
-
 
 
 .section-wrap {
@@ -40,4 +38,13 @@ h1 {
 .outer-main-section-wrap {
     background-color: #89b0ae;
     
+}
+
+.product-heading {
+    padding: 1em 1em 0.5em 4em;
+}
+
+.product-button {
+    padding-top: 1.5em;
+    padding-bottom: 2em;
 }
