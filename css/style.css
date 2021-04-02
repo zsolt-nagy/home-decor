@@ -56,3 +56,8 @@ h1 {
 .contact-form {
     text-align: center;
 }
+
+.contact-span {
+    display: flex;
+    display: inline-block;
+}
