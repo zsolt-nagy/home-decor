@@ -12,6 +12,10 @@ h1 {
    width: 100vw;
 }
 
+.cart-image {
+    width: 27px;
+}
+
 .main-section-wrap {
    display: flex;
    justify-content: center;
